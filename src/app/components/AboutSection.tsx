@@ -40,12 +40,12 @@ const TAB_DATA : any= [
         
         <h6>Golden Oriented Co,Ltd Product Catalouge</h6>
         <h6>Vivo Group of Companies Business Portfolio</h6>
-        <h6>Login Page Grab & Go</h6>
+        <h6>Myanant B2B Services</h6>
         </li>
 
         <li className=" mt-5">Junior Frontend Developer - 3 months at Systematic Business Solution<br />
         
-        <h6>Myanant B2B Services</h6>
+        
         <h6>Pwar Pwar Gyi Ebike Product Catalouge</h6>
         <h6>Columbus Air ticket selling,Travel & Tour Agency</h6></li>
         <h6>KaKaCar Business Catalouge & Ecommerce</h6>
